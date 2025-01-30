@@ -5,5 +5,5 @@ services:
     volumes:
       - ./:/opt/clicknote
     ports:
-      - 80:5173
+      - 8173:5173
     tty: true
